@@ -1,0 +1,28 @@
+
+<div id="master-wrap">
+  <div id="logo-box">
+
+    <div class="animated fast fadeInUp">
+    <a href="https://bit.ly/chat_terz">  <div class="icon"></div></a>
+  <h1>Welcome</h1>
+    </div>
+
+    <div class="notice animated fadeInUp">
+      <p class="lead">Please Click The Button Below </p>
+      <a class="btn animation" id="a">&larr; Click Here</a>
+    </div>
+
+    <div class="footer animated slow fadeInUp">
+      <p id="timer">
+        <script type="text/javascript">
+          countDown();
+        </script>
+      </p>
+      <p class="copyright">&copy;<a href="https://geekhelper.000webhostapp.com"> URL Redirector</a></p>
+    </div>
+
+  </div>
+  <!-- /#logo-box -->
+</div>
+<!-- /#master-wrap -->
+<!-- partial -->
